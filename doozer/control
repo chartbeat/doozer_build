@@ -1,8 +1,8 @@
-Package: doozerd
+Package: doozer
 Section: unknown
 Priority: extra
 Maintainer: Allan Beaufour <allan@chartbeat.com>
 Version: 0.8
 Homepage: http://github.com/ha/doozerd
 Architecture: amd64
-Description: Doozer Daemon
+Description: Doozer Client
