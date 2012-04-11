@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Script to compiled and (Debian) package doozer and doozerd.
+Script to compile and (Debian) package doozer and doozerd.
 
 Pulls from the chartbeat forks of doozer and doozerd (can be changed in `build_doozer.sh`).
 
