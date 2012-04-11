@@ -4,5 +4,5 @@ Priority: extra
 Maintainer: Allan Beaufour <allan@chartbeat.com>
 Version: 0.8
 Homepage: http://github.com/ha/doozerd
-Architecture: any
+Architecture: amd64
 Description: Doozer Daemon
