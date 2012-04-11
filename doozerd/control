@@ -1,0 +1,8 @@
+Package: doozerd
+Section: unknown
+Priority: extra
+Maintainer: Allan Beaufour <allan@chartbeat.com>
+Version: 0.8
+Homepage: http://github.com/ha/doozerd
+Architecture: any
+Description: Doozer Daemon
